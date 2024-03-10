@@ -1,4 +1,4 @@
-## Droogipedia: Intro to Python
+## Introduction to Python
 
 **Welcome to Droogipedia's Intro to Python!**
 
