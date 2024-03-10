@@ -48,8 +48,8 @@ The course is designed to be completed alongside the Droogipedia podcast episode
     * Bringing together the learned concepts to build a mini-project.
 
 **Resources:**
-
-* Droogipedia Podcast: [https://droog.crowdcoin.co.za]
+* Droogipedia Youtube: [https://youtube.com/@Droogipedia](https://youtube.com/@Droogipedia).
+* Droogipedia Website: [https://droog.crowdcoin.co.za](https://droog.crowdcoin.co.za)
 * Python Documentation: [https://docs.python.org/](https://docs.python.org/)
 * Online Python Tutorials: [https://www.learnpython.org/](https://www.learnpython.org/)
 
