@@ -11,7 +11,12 @@ The course is designed to be completed alongside the Droogipedia podcast episode
 * **Episode 1: Introduction to Python**
     * What is Python and why learn it?
     * Setting up your Python development environment.
+      1. **We use the following applications in this series:**
+      - Pydroid 3 - Android [Install from Playstore](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en&gl=US).
+      - Pythonanywhere.com - Browser [Visit website](https://pythonanywhere.com)
     * Writing your first Python program (Hello, World!)
+    * Link to full episode
+      - [![Episode 1: Introduction to Python](https://img.youtube.com/vi/SzIcKQozsXo/0.jpg)](https://www.youtube.com/watch?v=SzIcKQozsXo)
 * **Episode 2: Variables and Data Types**
     * Understanding variables and how to use them.
     * Exploring different data types in Python (numbers, strings, booleans).
